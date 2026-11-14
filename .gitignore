@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Xcode: datos por usuario y derivados
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Generado por build-engine.sh
+.build/
+Engine/lib/
+Engine/include/
+Vendor/libarchive-3.8.4/
